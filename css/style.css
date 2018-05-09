@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+.heard{
+	width:100%;
+	height:69px;
+	background-color:#504F4F;
+	}
+.heard h1{
+	width:199px;;
+	text-indent:-50em;
+	background:url(../img/img1.jpg) no-repeat left center;
+	line-height:69px;
+	float:left;
+	}
+.top p{
+	color:#fff;
+	font-size:12px;
+	float:right;
+	margin-top:11px;
+	}
+.top p span{
+	padding:0 11px;
+	}
+.top p a{
+	color:#fff;
+	font-size:12px;
+	float:right;
+	}
+
+.nav{
+	height:56px;
+	padding-left:122px;
+	}
+.nav a{
+	font-size:14px;
+	color:#000000;
+	line-height:56px;
+	}
+
+
+.nav span{
+	padding:0 18px;
+	}
+	
+.banner{
+	width:965px;
+	height:316px;
+	border:1px solid #ACACAC;
+}
+.center{
+	width:967px;
+	height:285px;
+	border:1px solid #000;
+	margin-top:23px;
+	}
+.center .left{
+	width:175px;
+	padding-left:15px;
+	float:left;
+	}
+.center .left h5{
+	font-size:18px;
+	color:#FB9919;
+	line-height:38px;
+	margin-top:5px;
+	float:left;
+	
+	}
+.center .left p{
+	font-size:12px;
+	color:#767676;
+	float:right;
+	margin-top:20px;
+	}
+.conter{
+	width:405px;
+	height:227px;
+	float:left;
+	padding-left:25px;
+	margin-top:33px;
+	padding-right:10px;
+	}
+.conter p{
+	font-size:12px;
+	color:#1F1F1F;
+	line-height:30px;
+	}
+.conter span{
+	color:#FC9918;
+	font-weight:bold;
+	}
+.center .right{
+	width:268px;
+	height:256px;
+	float:left;
+	border-left:1px solid #ccc;
+	padding-left:31px;
+	margin-top:12px;
+	}
+.center .right h6{
+	font-size:18px;
+	color:#FB9919;
+	}
+.center .right span{
+	font-size:12px;
+	color:#767676;
+	}
+.center .right a{
+	font-size:12px;
+	color:#000;
+	text-decoration:none;
+	line-height:30px;
+	}
+.center .right .Y2 span{
+	float:right;
+	margin-top:10px;
+	}
+.bottom{
+	width:967px;
+	height:327px;
+	border:1px solid #000;
+	margin-top:24px;
+	
+	}
+.bottom h5{
+	font-size:18px;
+	color:#FB9919;
+	padding-left:14px;
+	margin-top:15px;
+	}
+.bottom h5 span{
+	font-size:12px;
+	color:#767676;
+	}
+.bottom img{
+	padding-right:24px;
+	float:left;
+	margin-bottom:4px;
+	margin-top:17px;
+	
+	}
+.bottom .mr14{
+	margin-left:14px;
+	}
+.foot{
+	width:100%;
+	height:95px;
+	border-top:1px solid #ccc;
+	margin-top:37px;
+	}
+.foot p{
+	font-size:12px;
+	line-height:24px;
+	color:#000;
+	}
+.dibu{
+	margin-top:35px;
+	}
+.dibu p span{
+	color:#F47111;
+	}
+.dibu a{
+	color:#000;
+	}
+	
